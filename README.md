@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate with people on web and mobile development 
 - 📫 How to reach me adeshinabhadmus5@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: him/he
 - ⚡ Fun fact: your mind is your most powerful assest
 
 <!---
