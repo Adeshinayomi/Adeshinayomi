@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with people on web and mobile development 
 - 📫 How to reach me adeshinabhadmus5@gmail.com
 - 😄 Pronouns: him/he
-- ⚡ Fun fact: your mind is your most powerful assest
+- ⚡ Fun fact: your mind is your most powerful assest if trained well one can get enormous wealth 
 
 <!---
 Adeshinayomi/Adeshinayomi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
