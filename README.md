@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adeshinayomi
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate with people on web and mobile development 
+- 💞️ I’m looking to collaborate with people on website and mobile development 
 - 📫 How to reach me adeshinabhadmus5@gmail.com
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: your mind is your most powerful assest if trained well one can get enormous wealth 
