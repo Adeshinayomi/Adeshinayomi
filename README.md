@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate with people that are intrested in website and mobile development 
-- 📫 How to reach me adeshinabhadmus5@gmail.com
+- 📫 How to reach me email:adeshinabhadmus5@gmail.com
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: your mind is your most powerful assest if trained well one can get enormous wealth 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Adeshinayomi)](https://git.io/streak-stats)
