@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adeshinayomi
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning software development 
 - 💞️ I’m looking to collaborate with people that are intrested in website and mobile development at the moment 
 - 📫 How to reach me email:adeshinabhadmus5@gmail.com
 - 😄 Pronouns: him/he
