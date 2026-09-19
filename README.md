@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Adeshinayomi
+- 👋 Hi, I’m Adeshinayomi
 - 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning software development 
 - 💞️ I’m looking to collaborate with people that are intrested in website and mobile development at the moment 
